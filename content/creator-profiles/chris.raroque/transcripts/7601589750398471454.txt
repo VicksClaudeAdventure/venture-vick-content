@@ -1,0 +1,26 @@
+As a solo app developer with multiple apps,
+these are the three tools I'm paying for.
+First, Cloud Code.
+I'm on the $200 a month max plan.
+I'm always running like five instances of Cloud Code at once
+because I have so many code bases,
+which makes this worth every penny.
+I'll explain why this is such a good deal in the description.
+Next is cursor, which I pay $60 a month for.
+$20 a month for their agent,
+and $40 a month for Bugbot.
+I use the debug mode all the time,
+and it solves complex problems that Cloud Code can't.
+And I use Bugbot to review my code
+since I'm a solo developer.
+For the peace of mind on things like security,
+totally worth it.
+Lastly, I'm paying $12 a month for Whisperflow.
+I use it to dictate everything into Cloud Code in cursor,
+and it understands developer terminology
+better than any tool I've used.
+These three tools add up to about $272 a month,
+not sponsored by the way.
+These are all tools I'm paying for at a pocket.
+I'm building all my apps in public
+and sharing the journey, so follow along to see what's next.

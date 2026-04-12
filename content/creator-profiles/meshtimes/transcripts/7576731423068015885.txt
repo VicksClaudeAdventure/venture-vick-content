@@ -1,0 +1,9 @@
+For Christmas, I build an app so people can make an admin calendar,
+send it to their loved ones, and fill it with little surprises.
+The app is time zone based, the door will unlock day by day, so they can't cheat.
+You get 24 doors to customize one for each day in December.
+For example, door one opens on December 1st.
+Give cards, pictures, anything really.
+So just copy link and share with friends.
+I build this app in 4 days.
+Follow along to see my process.

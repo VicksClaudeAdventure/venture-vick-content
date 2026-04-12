@@ -1,0 +1,21 @@
+As a solo developer with multiple apps, here's my tech stack.
+I use Swift for my mobile apps because it's much easier to build complex gestures and
+animations compared to stuff like React Native, which is really important for the types of
+apps I'm building.
+Like my daily planning app, Ellie, has so many complex interactions where I'm dragging
+things.
+I check out this time box interaction where you can drag a task into a calendar.
+There's so much going on here, and it's really hard to do this well with React Native.
+For my web apps, I use React.
+Just plain React, not Next.js or anything like that.
+I probably could use something newer, but I haven't had any problems with this, so
+I don't see a need to change it.
+For my backend, I usually have a simple Node Express server, especially for any AI endpoints,
+and I use Firebase or SuperBase to power my database and authentication.
+I'll leave a note in the caption of when I decide to use one over the other.
+For hosting, I use Render for backends and Vercell to deploy frontends.
+Both are pretty pricey, but I love how simple it is.
+I have a pretty basic stack, but it's supported over a hundred thousand users who have used
+my apps, and I haven't had any problems.
+I build productivity apps and share everything I'm learning here, so follow along for more
+tips like this.

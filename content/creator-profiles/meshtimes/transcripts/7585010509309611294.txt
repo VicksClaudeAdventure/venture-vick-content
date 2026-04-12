@@ -1,0 +1,8 @@
+This is how much it actually cost me to launch now and it now has around 20,000 users.
+I've coded this app completely solo. First up, $142 on Brazil, where the app is hosted.
+This one hurt, but it's spiked because of traffic. Great problem to have though. Up next,
+$51 on V0. This honestly replaced the months of coding inside you for me. I sent over 600
+messages and each message is priced based on complexity. Next, $25 on Superbase. This stores
+all the calendar data and images, so far, over a million images have been uploaded, which
+is crazy to me. I spent about $230 to ship this app. I'm Marissa and I try to bring
+Transparency to building things on the Internet.

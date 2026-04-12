@@ -1,0 +1,30 @@
+This is how much it cost me to launch my app.
+Let's break it down.
+This was over a period of two months.
+That's how long it took me to go from idea to live.
+I paid $200 a month for cloud code,
+so $400 in total.
+Totally worth it.
+It's what wrote all the code for my app.
+For cursor, I pay about $40 a month,
+so $80 in total.
+I'm specifically paying for their bug bot feature
+to review my code and look for issues.
+As a solo developer who can't review his own code,
+this is totally worth it.
+Even if I'm already paying for cloud code.
+Now here's the expensive one.
+Pplexity Sonar was $900.
+This is the AI model I'm using.
+Every time someone typed something in my app,
+it uses this AI provider, which costs me half a cent.
+Doesn't sound like much, until a thousand people
+try your beta, and it added up really fast.
+Superbase was $25 a month, so 50 in total.
+The domain was $12, and the Apple developer account
+is $100 a year.
+So in total, it was $1,542 to get my app live.
+The good news is we're finally making revenue
+and slowly recouping the costs.
+I'm building this app in public,
+so follow along to see how it goes.

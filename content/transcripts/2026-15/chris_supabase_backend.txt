@@ -1,0 +1,18 @@
+I'm honestly embarrassed to admit this,
+but my app got hacked this week.
+Someone found a security vulnerability
+that could have bankrupted me.
+Here's what happened.
+My app uses AI and it's super expensive.
+So I added limits on how much of it each user could use.
+Someone found a way to remove those limits.
+And in theory, they could have racked up
+a $10,000 bill if they wanted to.
+It turns out this is a super common mistake,
+especially if you use super base.
+I posted about it and over 10 people said
+they had the exact same vulnerability in their app.
+I'll leave more details in the caption if you're interested
+in how you can avoid this too.
+I built productivity apps and document everything I'm learning
+so follow along for more tips like this.

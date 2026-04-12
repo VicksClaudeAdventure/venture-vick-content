@@ -1,0 +1,23 @@
+Here's exactly how my app is doing financially
+three months after launch.
+In the last 30 days, we made about $1,800.
+And with 145 paying users,
+that's almost $1,500 in monthly recurring revenue.
+But what about costs?
+Because Amy's an AI app,
+the AI costs are pretty high at $320 a month.
+But I will say that's down 50% from launch.
+My hosting bill is $20 a month with Superbase.
+I'll explain why I couldn't use their free tier
+in the caption.
+And because it's an iOS app,
+I had to pay 15% of the revenue to Apple,
+which is $278.
+It's usually 30%,
+but if you're a small business that makes under a million,
+you can apply to get it down to 15.
+So the total monthly expenses were $618,
+which leaves us with about $1,200 in profit.
+That's a 67% profit margin three months in.
+I'm bringing transparency to the app building space.
+So if you wanna see more stuff like this, follow along.

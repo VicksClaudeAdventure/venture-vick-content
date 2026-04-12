@@ -1,0 +1,11 @@
+# Audio and video files (keep locally, don't push to GitHub)
+*.mp3
+*.mp4
+*.m4a
+*.wav
+
+# macOS
+.DS_Store
+
+# Raw output files
+*.raw_output.txt

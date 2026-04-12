@@ -1,0 +1,30 @@
+You and your friends got faded last night and cooked up a billion dollar idea.
+I'm gonna show you how to turn that idea into a real company.
+Step 1. You need to create an actual business entity.
+Just go on Stripe and set up a C-Corp.
+You will feel sick at how easy and quick it is to do this step.
+Step 2. To make a billion dollars, you'll probably need to raise a few dollars first.
+For this, we set up an account on Carta and Polly.
+This makes thinking about cap tables and safes and shit like that way easier.
+Step 3. A billion dollars is a lot of money.
+You're gonna need somewhere to put it.
+I believe that's called a bank.
+You can use whatever bank of your choice here, but we use Mercury.
+And then because the UI is kind of designed for startup founders.
+But step in my own.
+Step 5. You need a way to communicate with all these investors and with one another.
+This is where you set up a Google workspace.
+Make yourself a cool little email handle with just your first name.
+It's great.
+Step 6. Unless you're a financial genius,
+you probably want some software that will help you manage your money.
+We use YNAB for this, which is short for a you-need-a-budget.
+You've completed all the steps until this point.
+Your idea is now an actual business.
+You have to start building it.
+It's up to personal preference, but for project management,
+we use linear.
+For documentation and random stuff, we just use notion.
+At this point, the software as you use come down to the idea that you have.
+For every category of listed in this video,
+it's kind of a non-negotiable for any business.

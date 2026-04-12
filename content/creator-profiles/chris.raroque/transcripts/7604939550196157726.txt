@@ -1,0 +1,16 @@
+Number one mistake I made with my last app
+was not adding Google and Apple login on day one.
+I didn't think it would make that big of a difference,
+but only 40% of the people who downloaded the app signed up.
+Someone who knows way more than me said,
+Chris, you need to add Google and Apple sign in, trust me.
+And so I did, and immediately the download to sign up rate
+went from 40% to 100%.
+Literally everyone is choosing this option too.
+My apps and users barely choose the email option.
+I'm never making this mistake again,
+and now every app I build will have this on day one.
+Please learn from my mistakes.
+Remove every possible barrier between your users and your app.
+I build productivity apps and share everything I'm learning here,
+so follow along for more tips like this.

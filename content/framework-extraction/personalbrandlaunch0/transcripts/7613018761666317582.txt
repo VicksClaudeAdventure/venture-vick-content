@@ -1,0 +1,9 @@
+This is a bad hook.
+This is a good hook.
+This is a great hook.
+This is bad value.
+This is good value.
+This is great value.
+This is a bad CTA.
+This is a good CTA.
+This is a great CTA.

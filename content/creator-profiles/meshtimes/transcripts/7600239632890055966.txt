@@ -1,0 +1,9 @@
+There's a tutorial on how to create a to-do list that grows flowers every time you complete
+a task on Google Sheets.
+Insert check boxes in column A, add all tasks in column B, expand column C, then merge
+everything.
+Find a flower time lapse video, screenshot each stage, upload all images to Google Drive,
+change permission settings to anyone with link.
+Paste this formula into C1.
+Don't forget to switch out the URLs with your images, and you're all done.
+I'm Marissa and make playable tutorials that help you build things with art and technology.
