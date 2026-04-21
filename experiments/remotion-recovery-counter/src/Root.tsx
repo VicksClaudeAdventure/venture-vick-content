@@ -1,19 +1,26 @@
 import React from 'react';
 import { Composition } from 'remotion';
-
-const Smoke: React.FC = () => (
-  <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'transparent' }}>
-    <div style={{ color: '#FFF', fontSize: 48 }}>scaffold ok</div>
-  </div>
-);
+import { RecoveryIntroCard } from './components/RecoveryIntroCard';
 
 export const RemotionRoot: React.FC = () => (
-  <Composition
-    id="Smoke"
-    component={Smoke}
-    durationInFrames={30}
-    fps={30}
-    width={1080}
-    height={1920}
-  />
+  <>
+    <Composition
+      id="IntroPreview_Static"
+      component={RecoveryIntroCard}
+      durationInFrames={120}
+      fps={30}
+      width={1080}
+      height={1920}
+      defaultProps={{ previousTotal: null, newTotal: 34776.15 }}
+    />
+    <Composition
+      id="IntroPreview_Drop"
+      component={RecoveryIntroCard}
+      durationInFrames={120}
+      fps={30}
+      width={1080}
+      height={1920}
+      defaultProps={{ previousTotal: 34776.15, newTotal: 34526.15 }}
+    />
+  </>
 );
