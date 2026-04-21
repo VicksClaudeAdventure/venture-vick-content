@@ -9,7 +9,6 @@ export type RecoveryIntroCardProps = {
   previousTotal: number | null;
   newTotal: number;
   countUpFrames?: number;
-  holdFrames?: number;
 };
 
 const TEXT_SHADOW =
@@ -19,7 +18,6 @@ export const RecoveryIntroCard: React.FC<RecoveryIntroCardProps> = ({
   previousTotal,
   newTotal,
   countUpFrames = 60,
-  holdFrames = 60,
 }) => {
   const frame = useCurrentFrame();
   const startValue = previousTotal ?? 0;

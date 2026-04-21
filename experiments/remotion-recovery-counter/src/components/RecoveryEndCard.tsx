@@ -10,7 +10,6 @@ export type RecoveryEndCardProps = {
   previousPaidBack: number;
   newPaidBack: number;
   countUpFrames?: number;
-  holdFrames?: number;
 };
 
 const TEXT_SHADOW =
@@ -26,7 +25,6 @@ export const RecoveryEndCard: React.FC<RecoveryEndCardProps> = ({
   previousPaidBack,
   newPaidBack,
   countUpFrames = 60,
-  holdFrames = 60,
 }) => {
   const frame = useCurrentFrame();
   const todayDelta = newPaidBack - previousPaidBack;

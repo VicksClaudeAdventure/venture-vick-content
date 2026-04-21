@@ -57,7 +57,6 @@ type RecoveryIntroCardProps = {
   previousTotal: number | null;  // null = count from $0 (declaration/static episodes)
   newTotal: number;              // final value to hold
   countUpFrames?: number;        // default 60
-  holdFrames?: number;           // default 60
 };
 ```
 
@@ -112,7 +111,6 @@ type RecoveryEndCardProps = {
   previousPaidBack: number;   // cumulative paid-back amount before this episode (0 on Day 1)
   newPaidBack: number;        // cumulative paid-back amount after this episode
   countUpFrames?: number;     // default 60
-  holdFrames?: number;        // default 60
 };
 ```
 
