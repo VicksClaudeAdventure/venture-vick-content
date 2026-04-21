@@ -12,3 +12,9 @@ Config.setCodec('prores');
 Config.setProResProfile('4444');
 Config.setPixelFormat('yuva444p10le');
 Config.setVideoImageFormat('png');
+
+// Drop the silent PCM audio track Remotion adds by default.
+// Counters are purely visual overlays — the Recovery episode's own voiceover
+// is on a separate track in the editor, and a silent stereo stream in the
+// overlay file only bloats size and risks NLE audio-routing confusion.
+Config.setMuted(true);
