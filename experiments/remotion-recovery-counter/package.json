@@ -1,0 +1,30 @@
+{
+  "name": "remotion-recovery-counter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion bundle",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "render": "remotion render src/index.tsx",
+    "render:day1-intro": "remotion render src/index.tsx Day1Intro out/day1-intro.mov --codec=prores --prores-profile=4444 --concurrency=4",
+    "render:day1-end":   "remotion render src/index.tsx Day1End out/day1-end.mov --codec=prores --prores-profile=4444 --concurrency=4",
+    "render:day3-intro": "remotion render src/index.tsx Day3Intro out/day3-intro.mov --codec=prores --prores-profile=4444 --concurrency=4",
+    "render:day3-end":   "remotion render src/index.tsx Day3End out/day3-end.mov --codec=prores --prores-profile=4444 --concurrency=4",
+    "render:all": "npm run render:day1-intro && npm run render:day1-end && npm run render:day3-intro && npm run render:day3-end"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}
