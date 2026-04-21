@@ -9,3 +9,5 @@
 
 # Raw output files
 *.raw_output.txt
+.DS_Store
+.claude/worktrees/
