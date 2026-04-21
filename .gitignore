@@ -11,3 +11,6 @@
 *.raw_output.txt
 .DS_Store
 .claude/worktrees/
+
+# Visual companion mockups (brainstorming artifacts, not source of truth)
+.superpowers/
