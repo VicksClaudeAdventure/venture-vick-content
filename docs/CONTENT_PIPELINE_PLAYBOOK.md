@@ -902,7 +902,16 @@ content/scripts/[YYYY-WW]/
 └── research-summary.md      # Step 4 pattern summary
 ```
 
-Each script file includes: full voiceover script, word count, WPM estimate, hook category, hook dimension, hook awareness level, funnel stage (TOFU/MOFU/BOFU), video angle, video length target, script structure used, all 5 production layers, engaging format specified, B-roll direction (referencing scene library), shot/angle notes, delivery notes, and example video links for the chosen structure.
+Each script file includes: full voiceover script, word count, WPM estimate, hook category, hook dimension, hook awareness level, funnel stage (TOFU/MOFU/BOFU), video angle, video length target, script structure used, all 5 production layers, engaging format specified, B-roll direction (referencing scene library), shot/angle notes, delivery notes, example video links for the chosen structure, and the "What does Marcus take home?" field:
+
+```
+## What Does Marcus Take Home?
+Framework: [named framework or principle — or "none, pure story beat"]
+Action: [specific thing Marcus can do tonight — or "none"]
+Resource: [free downloadable this drives to — or "none, follow CTA"]
+```
+
+If all three say "none," at least one sentence in the script must be naturally reframed to embed a takeaway. See `docs/CONTENT_STRATEGY.md` — Embedded Value Principle for guidance.
 
 **Jay's filming workflow:**
 1. Review all 21 scripts the night before filming (not 5 minutes before)
